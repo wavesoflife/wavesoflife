@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<!-- HERO SECTION — full bleed, outside the card -->
+<section class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">Welcome to My Journey</h1>
+    <p class="hero-subtitle">{{ site.description }}</p>
+  </div>
+</section>
+
+<div class="home-card-wrapper">
+
+  <!-- RECENT POSTS -->
+  <section class="home-recent-posts">
+    <h2>Recent Posts</h2>
+    {% assign recent = site.posts | limit: 5 %}
+    {% if recent.size > 0 %}
+      <ul class="post-list">
+        {% for post in recent %}
+        <li class="post-card">
+          <h3 class="post-card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          <p class="post-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+            &nbsp;&bull;&nbsp; BY {{ post.author | default: site.author | upcase }}
+          </p>
+          {% if post.excerpt %}
+          <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 180 }}</p>
+          {% endif %}
+          <a href="{{ post.url | relative_url }}" class="read-more">READ MORE &rarr;</a>
+        </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No posts yet &mdash; check back soon!</p>
+    {% endif %}
+  </section>
+
+  <!-- ABOUT THIS BLOG -->
+  <section class="home-about">
+    <h2>About This Blog</h2>
+    {{ content }}
+    <a href="{{ '/about' | relative_url }}" class="btn-outline">Learn More About Me</a>
+  </section>
+
+  <!-- FEATURED BIBLE VERSE -->
+  <section class="featured-verse">
+    <div class="verse-card">
+      <blockquote class="bible-verse">
+        <p>"When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you."</p>
+      </blockquote>
+      <p class="verse-ref"><a href="#">Isaiah 43:2</a></p>
+    </div>
+  </section>
+
+</div><!-- /.home-card-wrapper -->

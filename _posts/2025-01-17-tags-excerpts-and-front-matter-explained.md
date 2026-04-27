@@ -1,0 +1,207 @@
+---
+layout: post
+title: "Tags, Excerpts, and the Front Matter Block Explained"
+date: 2025-01-17
+author: Zayra
+tags: [how-to, getting-started, tags]
+excerpt: "Everything you need to know about the block of settings at the top of every post — including how tags work, how to write a good excerpt, and what every field means."
+---
+
+Every post starts with a small block of settings between two `---` lines. This block is called **front matter**, and it's how you give each post its title, date, tags, and more.
+
+This guide walks through every field, explains what it does, and shows you exactly how to use it.
+
+---
+
+## What Front Matter Looks Like
+
+Here is a complete example of the front matter block at the top of a post file:
+
+```
+---
+layout: post
+title: "What God Taught Me This Week"
+date: 2025-03-15
+author: Zayra
+tags: [faith, prayer, trust]
+excerpt: "A short, honest reflection on a week that didn't go as planned — and the peace that met me anyway."
+---
+```
+
+Everything between the two `---` lines is front matter. Everything *after* the second `---` is your post content.
+
+---
+
+## Each Field Explained
+
+### `layout: post`
+
+**Leave this exactly as it is — always.**
+
+This tells the site which design template to use. `post` is the template for blog posts. If you accidentally delete this line or change it, your post won't look right.
+
+---
+
+### `title:`
+
+```
+title: "What God Taught Me This Week"
+```
+
+This is the title of your post. It shows up as:
+- The big heading at the top of your post page
+- The clickable link on the Blog page
+- The tab title in the browser
+
+**Tips:**
+- Always put the title inside quote marks (" ")
+- You can use any punctuation inside the quotes — apostrophes, commas, colons
+- Make it something you'd actually want to click on!
+
+---
+
+### `date:`
+
+```
+date: 2025-03-15
+```
+
+This is the publish date of your post. It must be in `YYYY-MM-DD` format (year, then month, then day — all with dashes).
+
+**This date must also match the date in your file name.** For example:
+- File name: `2025-03-15-what-god-taught-me-this-week.md`
+- Front matter date: `date: 2025-03-15` ✅
+
+If they don't match, the post might not appear on the blog.
+
+---
+
+### `author:`
+
+```
+author: Zayra
+```
+
+Your name as you want it displayed beside each post. You can change this to a pen name or nickname — whatever feels right to you.
+
+---
+
+### `tags:`
+
+```
+tags: [faith, prayer, trust]
+```
+
+Tags are short labels that describe what your post is about. They help readers find posts on similar topics.
+
+**How to write tags:**
+
+- Put all your tags inside square brackets `[ ]`
+- Separate multiple tags with commas
+- Use lowercase letters
+- Use a hyphen `-` instead of a space for two-word tags: `personal-growth`, `bible-study`
+
+**Good examples:**
+
+```
+tags: [faith]
+tags: [faith, prayer]
+tags: [faith, personal-growth, women-of-the-bible]
+```
+
+**How tags appear on your site:**
+
+Tags show up as small clickable pill-shaped labels on:
+- The individual post page (below the title)
+- The Blog listing page (beside each post)
+- The Tags page, where every tag is listed with all posts using that tag
+
+**Tips for choosing tags:**
+- Use 1–4 tags per post — don't over-tag
+- Be consistent! If you write about prayer regularly, always use `prayer` (not sometimes `prayer`, sometimes `praying`, sometimes `prayers`)
+- Think about what a reader might search for
+
+---
+
+### `excerpt:`
+
+```
+excerpt: "A short, honest reflection on a week that didn't go as planned — and the peace that met me anyway."
+```
+
+The excerpt is a preview of your post. It appears in three places:
+- On the **Blog page**, below the post title
+- On the **Home page**, in the Recent Posts section
+- When someone **shares your post** on social media (as the description)
+
+**How to write a good excerpt:**
+
+- Keep it to 1–2 sentences
+- Give just enough to make someone want to read more
+- Write it in your own voice — warm and real
+- Always put it inside quote marks (" ")
+
+**What if I skip the excerpt?**
+
+The site will automatically pull the first paragraph of your post as a preview. This often works fine, but writing a custom excerpt gives you more control over how your post appears.
+
+---
+
+## A Full Example to Copy
+
+Here is a ready-to-use front matter block. Copy it to the top of any new post and fill in your details:
+
+```
+---
+layout: post
+title: "Your Title Here"
+date: 2025-01-01
+author: Zayra
+tags: [faith]
+excerpt: "A one or two sentence preview of your post goes here."
+---
+```
+
+Replace:
+- `Your Title Here` with your actual title
+- `2025-01-01` with today's date
+- `faith` with your chosen tags (can be one or more, separated by commas)
+- The excerpt sentence with your own words
+
+Then write your post below the closing `---`.
+
+---
+
+## Common Mistakes to Avoid
+
+**Missing quote marks on the title or excerpt:**
+```
+title: What I Learned Today        ← might cause an error on special characters
+title: "What I Learned Today"      ← always safe ✅
+```
+
+**Wrong date format:**
+```
+date: January 15, 2025    ← won't work ❌
+date: 2025-01-15          ← correct ✅
+```
+
+**Tags without brackets:**
+```
+tags: faith, prayer       ← won't work ❌
+tags: [faith, prayer]     ← correct ✅
+```
+
+**File name and date don't match:**
+```
+File: 2025-03-10-my-post.md   but   date: 2025-03-15   ← post may not show ❌
+File: 2025-03-15-my-post.md   and   date: 2025-03-15   ← perfect ✅
+```
+
+---
+
+> "Commit to the Lord whatever you do, and he will establish your plans."
+
+- Proverbs 16:3 *(NIV)*
+
+Small details, done faithfully. That's all it takes to keep this site running beautifully.

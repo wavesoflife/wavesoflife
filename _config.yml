@@ -1,0 +1,25 @@
+title: Waves of Life
+subtitle: "With Jesus"
+description: "Blog description goes in _config.yml"
+author: Zayra
+email: zayra@wavesoflife.blog
+baseurl: ""
+url: ""
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+sass:
+  sass_dir: assets/css
+  style: compressed

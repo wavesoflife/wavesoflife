@@ -1,0 +1,42 @@
+<header class="site-header">
+  <div class="header-inner">
+    <div class="site-branding">
+      <a href="{{ '/' | relative_url }}" class="branding-link">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }} logo" class="site-logo">
+        <div class="site-title-group">
+          <span class="site-title-main">{{ site.title }}</span>
+          <span class="site-subtitle">{{ site.subtitle }}</span>
+        </div>
+      </a>
+    </div>
+
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="hamburger"></span>
+      <span class="hamburger"></span>
+      <span class="hamburger"></span>
+    </button>
+
+    <nav class="site-nav" role="navigation">
+      <ul class="nav-links">
+        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+        <li><a href="{{ '/blog' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a></li>
+        <li><a href="{{ '/tags' | relative_url }}" {% if page.url contains '/tags' %}class="active"{% endif %}>Tags</a></li>
+        <li><a href="{{ '/about' | relative_url }}" {% if page.url contains '/about' %}class="active"{% endif %}>About</a></li>
+        <li><a href="{{ '/contact' | relative_url }}" {% if page.url contains '/contact' %}class="active"{% endif %}>Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<script>
+  const toggle = document.querySelector('.nav-toggle');
+  const nav = document.querySelector('.site-nav');
+  if (toggle) {
+    toggle.addEventListener('click', function() {
+      const expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', !expanded);
+      this.classList.toggle('is-open');
+      nav.classList.toggle('open');
+    });
+  }
+</script>
