@@ -1,6 +1,3 @@
-# Waves of Life With Jesus
-
-A faith-based Jekyll blog by Zayra, deployed on GitHub Pages.
 
 ## Quick Start
 
@@ -10,6 +7,41 @@ bundle exec jekyll serve
 ```
 
 Then open http://localhost:4000 in your browser.
+
+## Windows Dev Scripts
+
+Use PowerShell from the repo root:
+
+```powershell
+.\setup-dev.ps1
+.\run-dev.ps1
+```
+
+Or from Command Prompt (`cmd`) using batch wrappers:
+
+```bat
+setup-dev.bat
+run-dev.bat
+```
+
+`setup-dev.ps1` will:
+- Ensure Ruby is installed (tries `winget` if missing)
+- Install/update Bundler
+- Install gems from `Gemfile`
+
+`run-dev.ps1` starts the local dev server with livereload.
+
+Optional flags:
+
+```powershell
+.\run-dev.ps1 -Port 4001 -Host 0.0.0.0 -Drafts
+```
+
+`cmd` example:
+
+```bat
+run-dev.bat -Port 4001 -Host 0.0.0.0 -Drafts
+```
 
 ## Adding Your Logo
 
