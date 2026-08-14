@@ -3,4 +3,4 @@ layout: home
 title: Home
 ---
 
-Zayra, change this in index.md, you can make this say whatever you want!
+The idea of this blog came from my quiet time with Jesus.

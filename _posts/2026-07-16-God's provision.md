@@ -1,15 +1,22 @@
 ---
 layout: post
-title: "Welcome! How to Write Your First Blog Post"
-date: 2025-01-15
+title: "God’s Provision"
+date: 2026-07-08
 author: Zayra
 tags: [getting-started, how-to]
-excerpt: "This post is your beginner's guide to blogging with this site. It explains everything step by step — no tech experience needed!"
----
+--- 
 
-Hi Zayra! 👋 This is a *guide post* — it lives on your blog and doubles as a reference you can come back to anytime. You can delete it once you feel comfortable, or keep it for your own notes.
+![Alt text describing the image](/assets/imags/filename.png)
 
-Everything you need to know about writing and publishing a post is right here.
+ Time after time He has provided. I've been told “God will provide” many times since I started to walk with the Lord I never fully understood the capacity of what that meant. In this season of life, I've come to recognize and reflect on all the things, places and times God has provided for me. Not only financially but spiritually. In times He called me to things I never felt capable of but in my obedience he gave me his Spirit, strength and confidence I needed to lead where he's called me to lead and to be bold in what I believe. He has provided financially to pay bills and groceries when my food stamps stopped. He provided Christ like love I never knew I needed in places and from people that were once strangers to me. I learned the importance of community through their love of Jesus and how to ask for help in times of need. He has provided a roof over my head when he called me out of the home I was in.  I always thought of his provision in terms of financial needs being met. He not only provides finances but love, community, patience, strength, endurance, comfort, peace the list goes on. He provides in so many ways when we trust in him and allow him to move in our lives. When our hearts are right with him. God doesn’t just provide are needs because we need them but to also be a testimony of his Goodness and Faithfulness. He provides for those who love him.
+
+God’s provision can look like a car you needed for your growing family or a bonus check from work that brought someone conviction to spend it wisely. It can be as small as a hug you didn't know you needed to encourage you and remind you to continue praying. God provides in many different ways for each of us so don't forget to look for and reflect on all God has done in your life and praise him for it.
+
+Look at the birds. They don’t plant or harvest or store food in barns, for your heavenly Father feeds them. And aren’t you far more valuable than they are?   
+Matthew 6:26
+
+But seek first his kingdom and his righteousness, and all these things will be given to you as well.    Matthew 6:33
+
 
 ---
 
