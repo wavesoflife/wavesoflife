@@ -94,7 +94,7 @@ Wrap words in `*single asterisks*` to make them *italic*.
 Put a `-` at the start of each line:
 
 ```
-- First thought
+- First thouht
 - Second thought
 - Third thought
 ```
