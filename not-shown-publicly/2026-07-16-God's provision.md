@@ -6,6 +6,7 @@ author: Zayra
 tags: [getting-started, how-to]
 excerpt: "God's way of provided for those he loves continues to be a beautiful mistery to me. Here is a small protion of the ways he has provided for me."
 --- 
+![Alt text describing the image](/assets/imags/filename.png)
 
 ![Alt text describing the image](/assets/imags/filename.png)
 
