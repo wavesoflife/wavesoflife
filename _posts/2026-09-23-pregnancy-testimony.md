@@ -4,7 +4,7 @@ title: My pregnancy testimony
 date: 2026-09-23
 author: Zayra
 tags: [testimony, faith, trust, prayer]
-excerpt: "Sometimes God allows things to happen that don't make sense to bring you closer to him. To teach you to not only trust in him but to fully depend on him while also surrendering your the life to him."
+excerpt: "Sometimes God allows things to happen that don't make sense to bring you closer to him. To teach you to not only trust in him but to fully depend on him while also surrendering your life to him."
 ---
 Timeline:
 I got saved on April 30th of 2023 
