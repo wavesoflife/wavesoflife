@@ -1,16 +1,20 @@
 ---
 layout: post
-title: My pregnancy testimony
+title: My Pregnancy Testimony
 date: 2026-09-23
 author: Zayra
 tags: [testimony, faith, trust, prayer]
 excerpt: "Sometimes God allows things to happen that don't make sense to bring you closer to him. To teach you to not only trust in him but to fully depend on him while also surrendering your life to him."
 ---
 Timeline:
-I got saved on April 30th of 2023 
+I got saved on April 30th of 2023
+
 Was Baptized May 21st 2023
+
 Got pregnant December 2023
+
 Found out I was pregnant January 2024
+
 Had my son Ocean September 2024
 
 > "When you go through deep waters, I will be with you. When you go through rivers of difficulty, you will not drown. When you walk through the fire of oppression, you will not be burned up; the flames will not consume you. For I am the LORD, your God, the Holy One of Israel, your Savior."
