@@ -1,0 +1,15 @@
+---
+layout: post
+title: "The Seasons"
+date: 2026-10-09
+author: Zayra
+tags: [patience, trust, seasons]
+excerpt: "Going through trails or challenges in life can be hard lonely and uncomfortable. This is how I get through mine with Jesus." 
+---
+> "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+- Proverbs 3:5-6 *(NIV)*
+
+God’s faithfulness in the mists of trials has taught me about trusting in him more deeply. As well as patience and endurance. To stay hopeful and continuing to seek his face tends to be difficult in times we are being stretched and called to new things we have no experience with. Not only that but when everything in life feels as if it's all falling apart or all odds are against you. For me it's been my engagement season. Between planning a wedding, still trying to figure out and understand motherhood and being called to different ministries while also making time for my fiancé (Now husband) has just been a lot. If someone would've told me last year, I'd be here I would not have believed them. I was not expecting to be experiencing all these things in one season, but I’ve been extremely blessed to have what I like to call a mess of a life. (or chaotic season) It is also in hard seasons like this that I tend to want to dwell on things more easily. It's a lot to juggle at once. But I'm constantly reminded of God’s perfect plan for my life. Now I can choose two ways to handle this I can sit and wallow or I can seek the Lord and his will in this time. That is exactly what I have decided to do. Depend not on my own understanding but on the Author (Creator) of my story.I have found myself praying more consistently throughout my days although in this season, I’ve felt unheard. Longing to hear his voice more constantly while if anything feeling the exact opposite. I have to remind myself not to rely on feelings or emotions that are temporary afterall but instead on his truth found in his word (the bible) and spend time in praise and worship remembering all I have to be grateful for because I know that its only for a season and I'll look back on it and be able to see everywhere God’s hand has been. I share all this to remind you you're not alone. Jesus is with you and you are being heard and he's most likely teaching you to listen to his voice in a different way. Don’t get stuck on how your used to him speaking because he also speaks in a gentle whisper. He uses it all so be encouraged by the fact that nothing goes wasted just allow him to write you story and while you wait in this season continue to do the work you've been called to. Don’t forget to worship any chance you get because he deserves all the Glory. 
+
+> "Let perseverence finish its work so that you may be mature and complete, not lacking anything."
+- James 1:4 *(NIV)*
