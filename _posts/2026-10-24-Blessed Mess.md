@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Blessed Mess"
+date: 2026-10-24
+author: Zayra
+tags: [pruning, trust, faith, waiting]
+excerpt: My engagement season was nothing like I had expected it to be. 
+---
+> "My sheep listen to my voice; I know them, and they follow me."
+- John 10:27 *(NIV)*
+
+Blessed mess is what I call this season of my life (My Engagement season). My fiancé at the time who is now my (husband) actually came up with the name. This is my first pruning season, and it's been kicking my butt. It has challenged me in many ways. Yet I think I’ve been missing the point. I’ve been focused on things that are out of my control and lost sight of who I am in Jesus. I’ve lost myself in the future plans and goals and haven't enjoyed the small moments as hard as some may be. I fear I'm missing the point.  Being caught up in the stress of life before marriage and preparing for it has been more challenging than I excepted yet I feel at peace. How can these two things coexist? The answer is Jesus because although all these things are out of my control and hard my hope is in him. My strength comes from him. I depend on him and know he will get me through this season. None of this is forever it's all temporary. I know in it's time it'll all work out and make sense. In the books, I’ve been led to read which are 1 Samuel, Jonah and James the themes of these three-books circle around obedience and trusting in the Lord for the things we don't understand while also being patient. Seeking him and obeying what He has asked of us. The number of chances and patience God has had with me through all this is insane to me. I would've given up on me by now and in a way, I feel some people have run out of patience for me and my plans. They can't seem to see the vision and the difficulty of this season for me. Learning to hear your voice in a different way feels as if you're distant. Although I know you're not it's still hard. Hard to understand when I only have a small portion of the big picture. It's been hard to process and hard to be patient in it. Yet I am able to understand God’s silence doesn't mean he's absent it just means this is where your faith will develope. God is in both the miraculous appearence and the silence. This is were the things you know about God will help you get through the period of waiting. I was reminded today that God’s timing is perfect when we feel things have been delayed by our own lack of motivation or things just not working out. It wasn't really delayed but, in his timing, we aren't missing the blessing it's just not the time we can handle the blessing to it's fullest protentional. When others let you down, he never does he’s the only constant thing I’ve had through all this craziness. He is the only one that fully satisfies and I have been losing sight of that being to caught up in the things of this world. So here’s your reminder to seek God before all other things he's patiently waiting to hear from you.
+
+> "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance."
+- James 1:2-3 *(NIV)*
+
+This post is a sneak peak of what my journal entries look like and how I communicate with Jesus.
